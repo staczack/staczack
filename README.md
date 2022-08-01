@@ -23,7 +23,8 @@
 ### Socials
 
 <div style="display: inline_block"><br>
-<p align="left"><a href="http://www.instagram.com/_thiagolvr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" height="30" /></a> <a href="https://www.linkedin.com/in/thiagolvr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="30" width="40" /></a></p>
+  <a href="http://www.instagram.com/_thiagolvr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" height="30" /></a>
+  <a href="https://www.linkedin.com/in/thiagolvr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="30" width="40" /></a>
 </div>
 
 ![Snake animation](https://github.com/thiagolvr/thiagolvr/blob/output/github-contribution-grid-snake.svg)
