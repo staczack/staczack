@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/thiagolvr/thiagolvr/raw/master/cover-thiago.png" height="200"/>
+<a href="https://github.com/thiagolvr"><img src="https://github.com/thiagolvr/thiagolvr/raw/master/cover-thiago.png" height="200"/></a>
 
 <hr>
 <h1 align="center">Hi <img src="https://github.com/thiagolvr/thiagolvr/raw/master/hi.gif" width="30px">, I'm Thiago Oliveira
@@ -39,7 +39,7 @@ Ask me anything **[here](https://github.com/thiagolvr/thiagolvr/issues/new)** or
 
 ##
 
-<a href="https://github.com/thiagolvr">
+<a href="https://github.com/thiagolvr" style="text-decoration: none;">
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagolvr&show_icons=true&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolvr&langs_count=7&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
