@@ -1,9 +1,10 @@
 <div align="center">
-<a href="https://github.com/thiagolvr"><img src="https://github.com/thiagolvr/thiagolvr/raw/master/cover-thiago.png" height="200"/></a>
+<a href="https://github.com/thiagolvr"><img src="https://github.com/thiagolvr/thiagolvr/raw/master/imgs/cover-thiago.png" height="200"/></a>
 
 <hr>
-<h1 align="center">Hi <img src="https://github.com/thiagolvr/thiagolvr/raw/master/hi.gif" width="30px">, I'm Thiago Oliveira
-<a href="https://github.com/thiagolvr"><img align="right" width=50px height=60px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /></a>
+<h1 align="center">
+Hi <img src="https://github.com/thiagolvr/thiagolvr/raw/master/hi.gif" width="30px">, I'm Thiago Oliveira
+<a href="https://github.com/thiagolvr"><img align="right" width=50px height=60px alt="side_sticker" src="https://github.com/thiagolvr/thiagolvr/raw/master/imgs/gifs/connectionWhite.gif" /></a>
 </h1>
 
 <h3 align="center">Front-End Web Developer</h3>
