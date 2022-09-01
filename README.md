@@ -42,8 +42,8 @@ Ask me anything **[here](https://github.com/thiagolvr/thiagolvr/issues/new)** or
 
 <a href="https://github.com/thiagolvr">
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagolvr&show_icons=true&include_all_commits=true&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolvr&langs_count=7&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagolvr&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolvr&langs_count=7&hide_border=true&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 </div>
 </a>
  
