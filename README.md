@@ -35,6 +35,10 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <br />
 
+If you prefer something more visual, check out my **[portfolio](https://portfolio-thiagolvr.vercel.app)**.
+
+<br />
+
 Ask me anything **[here](https://github.com/thiagolvr/thiagolvr/issues/new)** or <a href="mailto:thiago_marcos_@hotmail.com"><b>send me an email</b></a>.
 
 
