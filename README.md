@@ -19,7 +19,7 @@ Hi <img src="https://github.com/thiagolvr/thiagolvr/raw/master/imgs/gifs/hi.gif"
 <br />
 <br />
 
-I started in web development since November 2021 at Trybe, developing and implementing applications and solutions using a range of technologies and JavaScript language. I'm currently studying back-end technologies.
+I started in web development since November 2021 at Trybe, developing and implementing applications and solutions using a range of technologies and the JavaScript language. I'm currently studying back-end technologies.
 
 <br />
 
