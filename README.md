@@ -39,7 +39,7 @@ Ask me anything **[here](https://github.com/thiagolvr/thiagolvr/issues/new)** or
  
 <br />
 
-If you prefer something more visual, check out my **[portfolio](https://portfolio-thiagolvr.vercel.app)**.
+If you prefer something more visual, check out my **[portfolio](https://thiagoliveira.tech)**.
 
 ##
 
