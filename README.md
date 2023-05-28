@@ -1,5 +1,4 @@
 <div align="center">
-<a href="https://github.com/thiagolvr"><img src="https://github.com/thiagolvr/thiagolvr/raw/master/imgs/cover-thiago.png" height="200"/></a>
 
 <hr>
 <h1 align="center">
