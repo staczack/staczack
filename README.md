@@ -5,7 +5,7 @@ Hi <img src="https://github.com/thiagolvr/thiagolvr/raw/master/imgs/gifs/hi.gif"
 <a href="https://github.com/thiagolvr"><img align="right" width=50px height=60px alt="side_sticker" src="https://github.com/thiagolvr/thiagolvr/raw/master/imgs/gifs/connections.gif" /></a>
 </h1>
 
-<h3 align="center">Front-End Web Developer</h3>
+<h3 align="center">FullStack Web Developer</h3>
 
 <a href="https://linkedin.com/in/thiagolvr" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
