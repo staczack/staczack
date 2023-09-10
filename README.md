@@ -17,7 +17,7 @@ Hi <img src="https://github.com/thiagolvr/thiagolvr/raw/master/imgs/gifs/hi.gif"
 <br />
 <br />
 
-I started in web development since 2021, developing and implementing applications and solutions using a range of technologies and the JavaScript language. I'm currently studying back-end technologies.
+Hello! I'm a software engineer who develops and implements applications and solutions using various technologies, including the JavaScript language. Currently, I'm studying back-end technologies with a focus on Java and JavaScript
 
 <br />
 
@@ -36,8 +36,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything **[here](https://github.com/thiagolvr/thiagolvr/issues/new)** or <a href="mailto:thiago_marcos_@hotmail.com"><b>send me an email</b></a>.
  
 <br />
-
-If you prefer something more visual, check out my **[portfolio](https://thiagoliveira.tech)**.
 
 ##
 
