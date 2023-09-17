@@ -17,7 +17,7 @@ Hi <img src="https://github.com/thiagolvr/thiagolvr/raw/master/imgs/gifs/hi.gif"
 <br />
 <br />
 
-Hello! I'm a software engineer who develops and implements applications and solutions using various technologies, including the JavaScript language. Currently, I'm studying back-end technologies with a focus on Java and JavaScript
+Greetings! I am a seasoned software engineer adept at crafting and deploying robust applications and solutions across diverse technological landscapes, with a specialization in the JavaScript ecosystem. Presently, I am immersed in a comprehensive study of back-end technologies, with a dedicated emphasis on both Java and JavaScript.
 
 <br />
 
