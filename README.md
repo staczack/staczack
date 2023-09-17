@@ -46,16 +46,22 @@ Ask me anything **[here](https://github.com/thiagolvr/thiagolvr/issues/new)** or
 
 <a href="https://github.com/thiagolvr">![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<a/>
 <a href="https://github.com/thiagolvr">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<a/>
-<a href="https://github.com/thiagolvr">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<a/>
 <a href="https://github.com/thiagolvr">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<a/>
-<a href="https://github.com/thiagolvr">![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<a/>
 <a href="https://github.com/thiagolvr">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<a/>
  <a href="https://github.com/thiagolvr">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)<a/>
 <a href="https://github.com/thiagolvr">![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)<a/>
-<a href="https://github.com/thiagolvr">![React-Testing-Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)<a/>
 <a href="https://github.com/thiagolvr">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<a/>
-<a href="https://github.com/thiagolvr">![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)<a/>
+<a href="https://github.com/thiagolvr">![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)<a/>
 <a href="https://github.com/thiagolvr">![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)<a/>
 <a href="https://github.com/thiagolvr">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<a/>
+<a href="https://github.com/thiagolvr">![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)<a/>
+<a href="https://github.com/thiagolvr">![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)<a/>
+<a href="https://github.com/thiagolvr">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)<a/>
+<a href="https://github.com/thiagolvr">![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)<a/>
+<a href="https://github.com/thiagolvr">![Play Framework](https://img.shields.io/badge/Play_Framework-%23FF9900?style=for-the-badge&logo=playframework&logoColor=white)<a/>
+<a href="https://github.com/thiagolvr">![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)<a/>
+<a href="https://github.com/thiagolvr">![AngularJS](https://img.shields.io/badge/AngularJS-%23E23237?style=for-the-badge&logo=angularjs&logoColor=white)<a/>
+<a href="https://github.com/thiagolvr">![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)<a/>
+<a href="https://github.com/thiagolvr">![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)<a/>
 
 </div>
