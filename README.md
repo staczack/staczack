@@ -1,10 +1,5 @@
 <div align="center">
 
-<h1 align="center">
-Hi <img src="https://github.com/thiagolvr/thiagolvr/raw/master/imgs/gifs/hi.gif" width="30px">, I'm Thiago Oliveira
-<a href="https://github.com/thiagolvr"><img align="right" width=50px height=60px alt="side_sticker" src="https://github.com/thiagolvr/thiagolvr/raw/master/imgs/gifs/connections.gif" /></a>
-</h1>
-
 <h3 align="center">FullStack Web Developer</h3>
 
 <a href="https://linkedin.com/in/thiagolvr" target="_blank">
