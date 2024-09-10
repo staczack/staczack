@@ -1,12 +1,11 @@
 <div align="center">
 
-<h3 align="center">FullStack Web Developer</h3>
+<h3 align="center">Software Engineer</h3>
+<h2 align="center">Frontend specialist</h2>
+
 
 <a href="https://linkedin.com/in/thiagolvr" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_thiagolvr" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 <br />
